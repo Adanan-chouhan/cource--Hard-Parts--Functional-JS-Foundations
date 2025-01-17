@@ -27,5 +27,5 @@ console.log(result); // 10
 //   const multiplyByTwo = prefillMultiply(2);  // '2' is now prefixed
   
 //   console.log(multiplyByTwo(5));  // Output: 10
-//   console.log(multiplyByTwo(10)); // Output: 20
+  console.log(multiplyByTwo(10)); // Output: 20
   
